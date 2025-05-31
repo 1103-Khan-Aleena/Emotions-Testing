@@ -6,7 +6,7 @@ MAX_ROWS = 100
 
 API_URL = "https://api-inference.huggingface.co/models/bhadresh-savani/distilbert-base-uncased-emotion"
 headers = {
-    "Authorization": "Bearer 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"
+    "Authorization": "Bearer {API TOKEN}"
 }
 
 # Function to get emotion from Hugging Face
